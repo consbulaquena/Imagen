@@ -1,5 +1,5 @@
 # Imagen
 Still in progress Sharing pictures + feeds Swift app
-Using Firebase as login.
+Using Firebase Auth for social login.
 
 Imagen is a Spanish word meaning "picture" or "image".
